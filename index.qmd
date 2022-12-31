@@ -10,12 +10,6 @@ about:
     - text: Email
       icon: envelope
       href: mailto:a.loureiro@uoguelph.ca
-    - text: Scholar
-      icon: mortarboard-fill
-      href: https://scholar.google.com/citations?user=l2jk7fcAAAAJ&hl=en
-    - text: ORCID
-      icon: person-circle
-      href: https://orcid.org/0000-0002-7127-5365
     - text: GitHub
       icon: github
       href: https://github.com/loureiro-alexandre
@@ -25,9 +19,12 @@ about:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/alexandre-loureiro-992410188/
-    # - text: CV
-    #   icon: file-text
-    #   href: loureiro_cv.pdf
+    - text: Scholar
+      icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=l2jk7fcAAAAJ&hl=en
+    - text: ORCID
+      icon: person-circle
+      href: https://orcid.org/0000-0002-7127-5365
   id: ppc
 ---
 
@@ -38,5 +35,5 @@ I'm an ecologist who likes to study ecology at all scales and settings, from app
 
 You can find more about me in the "About" tab and more about my work (past, present, and future) in the "Research" tab.
 
-If you are interested in chatting with me, feel free to send me an email!
+If you are interested in chatting with me, feel free to reach out through the links provided on this page!
 :::
