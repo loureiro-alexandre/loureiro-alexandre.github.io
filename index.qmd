@@ -1,0 +1,42 @@
+---
+title: "Alexandre Loureiro, MSc"
+image: loureiro_picture.jpeg
+resources: loureiro_cv.pdf
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:a.loureiro@uoguelph.ca
+    - text: Scholar
+      icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=l2jk7fcAAAAJ&hl=en
+    - text: ORCID
+      icon: person-circle
+      href: https://orcid.org/0000-0002-7127-5365
+    - text: GitHub
+      icon: github
+      href: https://github.com/loureiro-alexandre
+    - text: Twitter
+      icon: twitter
+      href: https://twitter.com/loureiro_al
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/alexandre-loureiro-992410188/
+    # - text: CV
+    #   icon: file-text
+    #   href: loureiro_cv.pdf
+  id: ppc
+---
+
+:::{#ppc}
+Welcome to my website! 
+
+I'm an ecologist who likes to study ecology at all scales and settings, from applied agriculture to "basic science" questions, and from individual physiology and behaviour, to global community distribution patterns. I'm completely mesmerized by nature, and being able to describe even a bit of it and then share this knowledge with others is an absolute thrill. On a technical level, I am very interested in statistics and reproducible research practices, so wherever I can, I use the programming language R and the scientific writing software Quarto, which integrates both markdown text (plain text) and R code into one document (for instance, I made this website in Quarto!).
+
+You can find more about me in the "About" tab and more about my work (past, present, and future) in the "Research" tab.
+
+If you are interested in chatting with me, feel free to send me an email!
+:::

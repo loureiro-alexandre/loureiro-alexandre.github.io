@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alexandre Loureiro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+  favicon: loureiro_picture.jpeg
+  
+format:
+  html:
+    toc: true
+    theme: spacelab
+    css: styles.css
+    smooth-scroll: true
