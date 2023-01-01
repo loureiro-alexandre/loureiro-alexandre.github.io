@@ -4,9 +4,13 @@ title: "Research"
 
 ## PhD (University of Guelph)
 
-### Montane beetle diversity and elevation across the globe: is there a common distribution pattern?
+### Montane beetle diversity and elevation: is there a common distribution pattern across the globe?
+
+If you are familiar with this macro-ecology area of inquiry, you might have heard that species diversity decreases with elevation either in linear fashion or in a hump-shaped trend. Statements like these lead you to believe that area of ecology is solved, and that these patterns must, therefore, be expected everywhere and with every taxa. That may be true to some extent, but that extent is not nearly as extensive as it seems! The papers that lead to statements like those are mostly meta-analyeses or reviews that attempt to summarise what these patterns are, and they tend to use mostly vertebrate data. Is expected, then, that these vertebrate patterns be seen in invertebrate communities? That is not so clear. Indeed, there are few papers that review or meta-analyse diversity patterns along elevation gradients for invertebrates. I'm on a mission to do that for the most diverse animal order in the world, the Coleoptera (beetles)!
 
 ### Ant thermal tolerance along a field-forest gradient in Guelph, Ontario
+
+Often, we find species where they are because of some abiotic variable that dictates where a species can and cannot be. Temperature is a well-known driver of species distributions, but it is not always the case that they are the causal factor. One way to find more evidence of the direct effects of temperature on the distribution of any given species is to measure some physiological traits that are known respond to those effects, and then map how they change with the community and map that onto the environmental temperature changes. In this chapter of mine, I am doing just that for the ant community in a field-forest gradient in Guelph, Ontario! I am measuring workers heat and cold tolerance for many species and tracking how those numbers change along the environmental gradient, and how well those changes can be explained by changes in temperature!
 
 ## MSc (Dalhousie Universtiy)
 

@@ -102,7 +102,7 @@
     "href": "short_cv.html#publications",
     "title": "Curriculum Vitae",
     "section": "Publications",
-    "text": "Publications"
+    "text": "Publications\n4. Loureiro, A. M., & Nams, V. O. (2020). Sand and shine: an inexpensive method to measure terrestrial arthropod movement in the laboratory. The Canadian Entomologist, 152(6), 823-829.\n3. Loureiro, A. M., Nams, V. O., White, S. N., & Cutler, G. C. (2020). Short-term dispersal and long-term spatial and temporal patterns of Carabidae (Coleoptera) in lowbush blueberry fields. Environmental Entomology, 49(3), 572-579.\n2. Loureiro, A. M., Cutler, G. C., Nams, V. O., & White, S. N. (2019). Poecilus lucublandus (Coleoptera: Carabidae) and Pterostichus mutus Do Not Feed on Hair Fescue, Red Sorrel, and Poverty Oatgrass Seeds. Journal of Insect Science, 19(2), 21.\n1. Loureiro, A. M. M. C., & Cutler, G. C. (2016). Parasitism of blueberry spanworm (Lepidoptera: Geometridae) by Ichneumonidae and Tachinidae in Nova Scotia blueberry fields. Journal of the Acadadian Entomological Society, 12, 31-34."
   },
   {
     "objectID": "short_cv.html#conference-presentations",
@@ -131,5 +131,12 @@
     "title": "Curriculum Vitae",
     "section": "Public Outreach",
     "text": "Public Outreach\n\nCommittee Member | 2020‑2022\n\nEntomological Society of Ontario\nSocial media content creation for the ESO Communications Committee\n\nOrganizing Committee Member | 2019\n\nGuelph Bug Day, University of Guelph, Guelph, Ontario, Canada\n\nSpeaker | 2016\n\nAgricultural Fall Fair, Halifax, Nova Scotia, Canada\nInsect seminar for elementary school students\n\nSpeaker | 2014\n\nDalhousie Orientation Week, Truro, Nova Scotia, Canada\n\nSpeaker | 2013\n\nDalhousie University, Truro, Nova Scotia, Canada\nRecruiting event with recruitment staff from several institutions"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "If you are familiar with this macro-ecology area of inquiry, you might have heard that species diversity decreases with elevation either in linear fashion or in a hump-shaped trend. Statements like these lead you to believe that area of ecology is solved, and that these patterns must, therefore, be expected everywhere and with every taxa. That may be true to some extent, but that extent is not nearly as extensive as it seems! The papers that lead to statements like those are mostly meta-analyeses or reviews that attempt to summarise what these patterns are, and they tend to use mostly vertebrate data. Is expected, then, that these vertebrate patterns be seen in invertebrate communities? That is not so clear. Indeed, there are few papers that review or meta-analyse diversity patterns along elevation gradients for invertebrates. I’m on a mission to do that for the most diverse animal order in the world, the Coleoptera (beetles)!\n\n\n\nOften, we find species where they are because of some abiotic variable that dictates where a species can and cannot be. Temperature is a well-known driver of species distributions, but it is not always the case that they are the causal factor. One way to find more evidence of the direct effects of temperature on the distribution of any given species is to measure some physiological traits that are known respond to those effects, and then map how they change with the community and map that onto the environmental temperature changes. In this chapter of mine, I am doing just that for the ant community in a field-forest gradient in Guelph, Ontario! I am measuring workers heat and cold tolerance for many species and tracking how those numbers change along the environmental gradient, and how well those changes can be explained by changes in temperature!"
   }
 ]
