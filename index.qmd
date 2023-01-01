@@ -1,7 +1,6 @@
 ---
 title: "Alexandre Loureiro, MSc"
-image: loureiro_picture.jpeg
-resources: loureiro_cv.pdf
+image: "images/loureiro_picture.jpeg"
 about:
   template: jolla
   image-shape: round
@@ -31,9 +30,9 @@ about:
 :::{#ppc}
 Welcome to my website! 
 
-I'm an ecologist who likes to study ecology at all scales and settings, from applied agriculture to "basic science" questions, and from individual physiology and behaviour, to global community distribution patterns. I'm completely mesmerized by nature, and being able to describe even a bit of it and then share this knowledge with others is an absolute thrill. On a technical level, I am very interested in statistics and reproducible research practices, so wherever I can, I use the programming language R and the scientific writing software Quarto, which integrates both markdown text (plain text) and R code into one document (for instance, I made this website in Quarto!).
+I'm an ecologist who likes to study ecology at all scales and settings, from applied agriculture to "basic science" questions, and from individual physiology and behaviour, to global community distribution patterns. Generally speaking, I'm interested in learning about how species distribute themselves in space and what the drivers of those distributions are, which allows me to explore that theme within many different settings. On a technical level, I am very interested in statistics and reproducible research practices, so wherever I can, I use the programming language R, the version control software Git and its cloud friend GitHub, and the scientific writing software Quarto, which integrates both markdown text (plain text) and R code into one document (for instance, I made this website in Quarto!).
 
-You can find more about me in the "About" tab and more about my work (past, present, and future) in the "Research" tab.
+My real driving force, however, is the spell nature has cast on me. I love trying to capture bits of its infinite beauty into descriptions that I can then share with others, in hopes that their attention also gets directed toward this incredible world we are a part of.
 
 If you are interested in chatting with me, feel free to reach out through the links provided on this page!
 :::

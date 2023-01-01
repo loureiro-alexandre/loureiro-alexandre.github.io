@@ -8,11 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: "About"
       - research.qmd
       - href: short_cv.qmd
         text: "CV"
-  favicon: loureiro_picture.jpeg
+  favicon: "images/loureiro_picture.jpeg"
   
 format:
   html:
