@@ -2,6 +2,8 @@
 title: "About me"
 ---
 
+<img width="300" height="400" src="images/walking.JPG">
+
 I was born and raised in Recife, Brazil. I could therefore never escape (and in fact I did not want to!) the full majesty of life in the tropics. It is everywhere you look, and everywhere you go. I was particularly obsessed with the leaf-cutter ants that created mighty civilizations in my front yard -- to my mother's absolute dismay, since it meant her much cared-for garden's days were numbered. After a high school exchange trip to Nova Scotia, Canada, and a subsequent scholarship to Dalhousie University, I moved to Canada in 2012 to pursue a BSc in Agriculture with a major in environmental sciences.
 
 During my Time at Dalhousie University, I got involved in <a href="https://www.dal.ca/faculty/agriculture/plant-food-env/faculty-staff/our-faculty/christopher-cutler.html" target="_blank">Dr. Chris Cutler</a>'s entomology laboratory. In my first year, I became a volunteer research assistant, and was then hired as a summer research assistant every summer until I started my Masters. During my MSc, also under Dr. Cutler's supervision, I was finally in charge of a large-scale project, and it was at that time that I fell in love with statistics. I went from having a self-declared dislike for the subject, to wanting to learn about it more and more, to literally "spreading the good news" to my friends. I quickly became the "stats guy" for my lab and I have maintained this reputation ever since. Aside from stats, I got to learn a lot about ecology, community ecology, and the Carabidae fauna found in lowbush blueberry fields. But as I said earlier, my "gateway drug" into biology was ants, so I went looking for some kind of ant project for my PhD.
