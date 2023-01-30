@@ -10,9 +10,23 @@ website:
         text: Home
       - href: about.qmd
         text: "About"
-      - research.qmd
+      - href: research.qmd
+        text: "Research"
       - href: short_cv.qmd
         text: "CV"
+    right: 
+    - icon: envelope
+      href: mailto:a.loureiro@uoguelph.ca
+    - icon: github
+      href: https://github.com/loureiro-alexandre
+    - icon: twitter
+      href: https://twitter.com/loureiro_al
+    - icon: linkedin
+      href: https://www.linkedin.com/in/alexandre-loureiro-992410188/
+    - icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=l2jk7fcAAAAJ&hl=en
+    - icon: person-circle
+      href: https://orcid.org/0000-0002-7127-5365
   favicon: "images/loureiro_picture.jpeg"
   
 format:
