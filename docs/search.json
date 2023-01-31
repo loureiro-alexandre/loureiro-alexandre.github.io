@@ -138,5 +138,12 @@
     "title": "Research Projects",
     "section": "",
     "text": "If you are familiar with this macro-ecology area of inquiry, you might have heard that species diversity decreases with elevation either in linear fashion or in a hump-shaped trend. Statements like these lead you to believe that that line of inquiry is solved, and that these patterns must, therefore, be expected everywhere and with every taxa. That may be true to some extent, but that extent is not nearly as extensive as it seems! The papers that lead to statements like those are mostly meta-analyeses or reviews that attempt to summarise what these patterns are, and they tend to use mostly vertebrate data. Can we therefore expect to see these vertebrate patterns in invertebrate communities? The answer is not so clear. Indeed, there are few papers that review or meta-analyse diversity patterns along elevation gradients for invertebrates. And so, I’m on a mission to do just that for the most diverse animal order in the world: the Coleoptera (beetles)!\n\n\n\nOften, we find species where they are because of some abiotic variable that dictates where a species can and cannot be. While temperature is a well-known driver of species distributions, it is not always the causal factor. One way to find more evidence of the direct effects of temperature on the distribution of any given species is to measure some physiological traits that are known to respond to those effects, and to then map how they change with the community and connect that information to the environmental temperature changes. In this chapter, I am doing just that for the ant community in a field-forest gradient in Guelph, Ontario! I am measuring workers’ heat and cold tolerance for many species and tracking how those numbers change along the environmental gradient and how well those changes can be explained by changes in temperature!"
+  },
+  {
+    "objectID": "research.html#educational-resources",
+    "href": "research.html#educational-resources",
+    "title": "Research Projects",
+    "section": "Educational Resources",
+    "text": "Educational Resources\nAs one of my PhD side projects, I have written a user-friendly guide to some of the most common statistical techniques used in the Smith Lab using R. In it, I guide the reader on how to prepare their data, when to use each technique, down-to earth, (mostly) jargon-free explanations of the theory behind them, and how to interpret the R outputs of each analysis. You can access that guide here."
   }
 ]
