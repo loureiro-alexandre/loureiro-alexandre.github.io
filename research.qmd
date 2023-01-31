@@ -59,6 +59,8 @@ For my undergraduate thesis project, I studied the blueberry spanworm (*Itame ar
 
 ## Educational Resources
 
+### Smith Lab common stats in R guide
+
 As one of my PhD side projects, I have written a user-friendly guide to some of the most common
 statistical techniques used in the [Smith Lab](https://www.malexsmith.com/) using R. In it, I guide the reader on how to prepare their data, when to use each technique, down-to earth, (mostly) jargon-free explanations of the theory behind them,
 and how to interpret the R outputs of each analysis. You can access that guide [here](smith_lab_common_stats.html).

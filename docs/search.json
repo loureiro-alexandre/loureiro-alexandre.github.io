@@ -144,6 +144,6 @@
     "href": "research.html#educational-resources",
     "title": "Research Projects",
     "section": "Educational Resources",
-    "text": "Educational Resources\nAs one of my PhD side projects, I have written a user-friendly guide to some of the most common statistical techniques used in the Smith Lab using R. In it, I guide the reader on how to prepare their data, when to use each technique, down-to earth, (mostly) jargon-free explanations of the theory behind them, and how to interpret the R outputs of each analysis. You can access that guide here."
+    "text": "Educational Resources\n\nSmith Lab common stats in R guide\nAs one of my PhD side projects, I have written a user-friendly guide to some of the most common statistical techniques used in the Smith Lab using R. In it, I guide the reader on how to prepare their data, when to use each technique, down-to earth, (mostly) jargon-free explanations of the theory behind them, and how to interpret the R outputs of each analysis. You can access that guide here."
   }
 ]
