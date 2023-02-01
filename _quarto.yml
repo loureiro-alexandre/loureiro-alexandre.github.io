@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: "About"
       - href: research.qmd
-        text: "Projects"
+        text: Projects
       - href: short_cv.qmd
         text: "CV"
     right: 
