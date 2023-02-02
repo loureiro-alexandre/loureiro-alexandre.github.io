@@ -152,5 +152,12 @@
     "title": "Past and current projects",
     "section": "Smith Lab common stats in R",
     "text": "Smith Lab common stats in R\nAs one of my PhD side projects, I have written a user-friendly guide to some of the most common statistical techniques used in the Smith Lab using R (biased towards the analyses I used in my projects). In it, I guide the reader on how to prepare their data, when to use each technique, and how to interpret the R outputs of each analysis. I also tried my best to add intuitive explanations of the theory behind each analysis. You can access that guide here."
+  },
+  {
+    "objectID": "short_cv.html#work-experience",
+    "href": "short_cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nResearch\n\nSummer Research Assistant | Entomology Laboratory, Department of Environmental Sciences, Dalhousie University, Nova Scotia, Canada | 2013-2016\n\n\n\nTeaching\n\nTeaching Assistant | University of Guelph, Guelph, Ontario, Canada | 2022\n\nEcology (BIOL*2060)\n\nTeaching Assistant | University of Guelph, Guelph, Ontario, Canada | 2021\n\nEcology (BIOL*2060)\nDiscovering Biodiversity (BIOL*1070)\n\nWorkplace Supervisor | University of Guelph, Guelph, Ontario, Canada| 2020\n\nInternship in Biological Science (BIOL*3660)\n\nWorkplace Supervisor | University of Guelph, Guelph, Ontario, Canada| 2019\n\nInternship in Biological Science (BIOL*3660)\n\nTeaching Assistant | University of Guelph, Guelph, Ontario, Canada | 2019\n\nEcological Methods (BIOL*4110)\nLaboratory and Field Studies in Ecology (BIOL*3010)\n\nInvited Lecturer | University of Guelph, Guelph, Ontario, Canada | 2019\n\nInvertebrate Morphology and Evolution (ZOO*2700)\n\nTeaching Assistant | Dalhousie University, Truro, Nova Scotia, Canada | 2018\n\nIntroduction to Planned Studies: Surveys and Experiments (STAA*3000)\n\nTutor | Dalhousie University, Truro, Nova Scotia, Canada | 2017\n\nIntermediate Statistical Methods (AGRI*5630)\n\nTeaching Assistant | Dalhousie University, Truro, Nova Scotia, Canada | 2017\n\nIntro to Soil and Soil Management (SOIL*0201)"
   }
 ]
