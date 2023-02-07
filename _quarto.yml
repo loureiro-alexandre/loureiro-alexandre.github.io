@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Alexandre Loureiro"
+  title: |
+    Alexandre Loureiro
   navbar:
-    pinned: true
     left:
       - href: index.qmd
-        text: Home
+        text: |
+          Home
       - href: about.qmd
-        text: About
+        text: |
+          About
       - href: research.qmd
-        text: Projects
+        text: |
+          Projects
       - href: short_cv.qmd
-        text: CV
+        text: |
+          CV
     right: 
     - icon: envelope
       href: mailto:a.loureiro@uoguelph.ca
@@ -30,9 +34,21 @@ website:
       href: https://orcid.org/0000-0002-7127-5365
   favicon: "images/loureiro_picture.jpeg"
   page-footer:
-    left: © 2023 Alexandre Loureiro.
-    right: I built this website with <a href="https://quarto.org/" target="_blank">Quarto</a>.
-  
+    left: |
+      © 2023 Alexandre Loureiro.
+    right: 
+    - icon: envelope
+      href: mailto:a.loureiro@uoguelph.ca
+    - icon: github
+      href: https://github.com/loureiro-alexandre
+    - icon: twitter
+      href: https://twitter.com/loureiro_al
+    - icon: linkedin
+      href: https://www.linkedin.com/in/alexandre-loureiro-992410188/
+    - icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=l2jk7fcAAAAJ&hl=en
+    - icon: person-circle
+      href: https://orcid.org/0000-0002-7127-5365
 format:
   html:
     toc: true
