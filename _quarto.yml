@@ -28,6 +28,9 @@ website:
     - icon: person-circle
       href: https://orcid.org/0000-0002-7127-5365
   favicon: "images/loureiro_picture.jpeg"
+  page-footer:
+    left: © 2023 Alexandre Loureiro.
+    right: I built this website with <a href="https://quarto.org/">Quarto</a>.
   
 format:
   html:
