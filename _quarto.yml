@@ -5,6 +5,7 @@ project:
 website:
   title: "Alexandre Loureiro"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
@@ -30,7 +31,7 @@ website:
   favicon: "images/loureiro_picture.jpeg"
   page-footer:
     left: © 2023 Alexandre Loureiro.
-    right: I built this website with <a href="https://quarto.org/">Quarto</a>.
+    right: I built this website with <a href="https://quarto.org/" target="_blank">Quarto</a>.
   
 format:
   html:
