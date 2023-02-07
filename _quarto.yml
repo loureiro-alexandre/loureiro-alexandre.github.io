@@ -10,11 +10,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: "About"
+        text: About
       - href: research.qmd
         text: Projects
       - href: short_cv.qmd
-        text: "CV"
+        text: CV
     right: 
     - icon: envelope
       href: mailto:a.loureiro@uoguelph.ca
