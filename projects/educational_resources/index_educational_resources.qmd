@@ -1,0 +1,24 @@
+---
+title: Educational Resources
+listing:
+  - id: educational-resources
+    contents: 
+      - "**/*/index.qmd"
+      - "**/*/smith_lab_common_stats.html"
+    type: default
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: true
+    filter-ui: true
+page-layout: full
+title-block-banner: false
+comments: false
+#include-in-header: meta.html  
+toc: true
+---
+
+These are educational resources I have made to help others.
+
+::: {#educational-resources}
+:::

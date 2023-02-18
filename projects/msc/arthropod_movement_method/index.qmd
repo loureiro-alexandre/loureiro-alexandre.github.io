@@ -1,0 +1,11 @@
+---
+title: A method to measure terrestrial arthropod movement in the laboratory, in the dark
+---
+
+::: {layout-ncol=2}
+![Movement prints of beetles under our "day light" treatment.](beetle_movements.JPG)
+
+![Movement prints of beetles under our "dark" treatment.](beetle_movements_2.PNG)
+:::
+
+During a "directed studies" course, where we were expected to develop a research project on our own and present it at the end of term, I studied how light affected the movements of the carabid beetle *Harpalus rufipes*, the most common species in lowbush blueberry fields. I did not have access to infra-red cameras nor any fancy equipment, and therefore needed to come up with a way to measure the effects of different light treatments (including no light at all) with the resources I had at hand. After much trial and error, I settled on a table covered with a black tarp acting as the floor of the arena where the beetles would move, a Plexiglass circular wall to fence them in, sand for the surface on which they would walk, and equidistant lines of fluorescent powder. As the beetles would walk past these lines of powder, they would drag it around, leaving behind a fluorescent footprint of their movements in the sand. We then photographed these arenas under UV light and quantified these bettles' movement patterns under the influence of different light treatments. This experiment was carried out in a very affordable manner, especially considering that we quantified movements in the dark without infra-red cameras! Our study was published by Cambridge University Press in *The Canadian Entomologist* and you can find it <a href="https://doi.org/10.4039/tce.2020.48" target="_blank">here</a>.

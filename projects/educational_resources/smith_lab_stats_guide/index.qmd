@@ -1,0 +1,10 @@
+---
+title: Smith Lab common stats in R guide
+project:
+  execute-dir: project
+---
+
+![The laboratory of M. Alex Smith at the University of Guelph](smith_lab_logo.png)
+
+As one of my PhD side projects, I have written a user-friendly guide to some of the most common
+statistical techniques used in the [Smith Lab](https://www.malexsmith.com/) using R (biased towards the analyses I used in my projects). In it, I guide the reader on how to prepare their data, when to use each technique, and how to interpret the R outputs of each analysis. I also tried my best to add intuitive explanations of the theory behind each analysis. You can access that guide [here](https://loureiro-alexandre.github.io/smith_lab_common_stats.html).

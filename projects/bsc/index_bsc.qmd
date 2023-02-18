@@ -1,0 +1,22 @@
+---
+title: BSc Projects
+listing:
+  - id: bsc-projects
+    contents: "**/*/index.qmd"
+    type: default
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: true
+    filter-ui: true
+page-layout: full
+title-block-banner: false
+comments: false
+#include-in-header: meta.html  
+toc: true
+---
+
+This is the 4^th^ year project from my BSc at the Dalhousie Agricultural Campus under Dr. Chris Cutler's supervision. This followed after I was hired as a Summer Research Assistant for four years in his lab.
+
+::: {#bsc-projects}
+:::

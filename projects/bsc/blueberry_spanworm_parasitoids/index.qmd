@@ -1,0 +1,11 @@
+---
+title: Blueberry spanworm parasitoid populations in Nova Scotia blueberry fields
+---
+
+::: {layout-ncol=2}
+![Parasitoid rearing set-up](parasitoid_rearing.jpg)
+
+![Parasitoid pupae](parasitoid_pupae.jpg)
+:::
+
+For my undergraduate thesis project, I studied the blueberry spanworm (*Itame argillacearia*) parasitoid populations in Nova Scotia lowbush blueberry fields. Spanworm outbreaks are a well-known source of stress and income loss to growers, but they occur in not-so-predictable patterns, and the reasons why the spanworm population numbers stay low (sometimes years at a time) are not very clear. In 2015, researchers at Dalhousie University published findings that the blueberry spanworm populations from two commercial blueberry fields had parasitism rates of around 50-60%, which could be the reason behind the spanworm population suppression! So to expand on these findings, we sampled 15 fields, 8 of which had enough blueberry spanworm larvae for us to collect and bring back to the lab. We found that around 22% of the spanworm larvae were parasitized either by wasps of the family Ichneumonidae or flies of the family Tachinidae, which is lower than what was reported in the 2015 study. This can be explained, however, due to the fact that we had larvae from many more different sites. These are still considerably high numbers, which means parasitoids may very well be behind at least some of the periodically low spanworm population numbers! Our study was published by the Acadian Entomological Society in the *Journal of the Acadian Entomological Society*, and you can find it <a href="https://acadianes.org/journal/papers/cutler_16-4.pdf" target="_blank">here</a>.

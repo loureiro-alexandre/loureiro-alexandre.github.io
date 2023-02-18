@@ -1,0 +1,7 @@
+---
+title: Ant thermal tolerance along a field-forest gradient in Guelph, Ontario
+---
+
+![Slope inside the forest at the Dairy Bush, Guelph, Ontario](dairy_bush_slope.jpg)
+
+Often, we find species where they are because of some abiotic variable that dictates where a species can and cannot be. While temperature is a well-known driver of species distributions, it is not always the causal factor. One way to find more evidence of the direct effects of temperature on the distribution of any given species is to measure some physiological traits that are known to respond to those effects, and to then map how they change with the community and connect that information to the environmental temperature changes. In this chapter, I am doing just that for the ant community in a field-forest gradient in Guelph, Ontario! I am measuring workers' heat and cold tolerance for many species and tracking how those numbers change along the environmental gradient and how well those changes can be explained by changes in temperature!

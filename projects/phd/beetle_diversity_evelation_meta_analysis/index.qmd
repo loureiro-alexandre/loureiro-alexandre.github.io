@@ -1,0 +1,7 @@
+---
+title: Montane beetle diversity and elevation -- is there a common distribution pattern across the globe?
+---
+
+![Centroids of studies that have beetle diversity and elevation data across the globe](beetle_elevation_location_studied_areas_world_map.png)
+
+If you are familiar with this macro-ecology area of inquiry, you might have heard that species diversity decreases with elevation either in linear fashion or in a hump-shaped trend. Statements like these lead you to believe that that line of inquiry is solved, and that these patterns must, therefore, be expected everywhere and with every taxa. That may be true to some extent, but that extent is not nearly as extensive as it seems! The papers that lead to statements like those are mostly meta-analyeses or reviews that attempt to summarise what these patterns are, and they tend to use mostly vertebrate data. Can we therefore expect to see these vertebrate patterns in invertebrate communities? The answer is not so clear. Indeed, there are few papers that review or meta-analyse diversity patterns along elevation gradients for invertebrates. And so, I'm on a mission to do just that for the most diverse animal order in the world: the Coleoptera (beetles)!

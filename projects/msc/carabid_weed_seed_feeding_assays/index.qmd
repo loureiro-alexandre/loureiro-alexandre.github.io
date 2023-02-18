@@ -1,0 +1,11 @@
+---
+title: Feeding behaviours of two abundant early spring carabid species
+---
+
+::: {layout-ncol=2}
+![*Pterostichus mutus in feeding arena with weed seeds*](p_mutus_seeds.Jpeg)
+
+![Lowbush blueberry field in a vegetative growth year.](sprout_blueberry_field.jpg)
+:::
+
+Lowbush blueberry fields tend to be managed in a two-year cycle, where in one year the field is in vegetative growth (locally called a sprout field) and in the other it is in fruit-bearing mode (called a crop field). At the end of the crop year, growers mow the field down to the ground to begin the cycle anew. In sprout fields, there tends to be a large number of weed seeds on the ground from the previous year, many of which can germinate. At the same time, there is an abundance of two very common carabid species, *Poecilus lucublandus* and *Pterostichus mutus*, both of which are generally known as carnivores, with some rare reports of them eating seeds. The natural question that followed these observations was: are there such high numbers of beetles in those areas because they are consuming the weed seeds? Our experiments showed that they are very likely not there to eat those seeds, and the reasons why they appear in such abundance in sprout fields are still a mystery. Our study was published by Oxford University Press in the *Journal of Insect Science* and you can find it <a href="https://doi.org/10.1093/jisesa/iez027" target="_blank">here</a>.

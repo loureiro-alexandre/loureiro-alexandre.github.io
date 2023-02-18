@@ -1,0 +1,22 @@
+---
+title: PhD Projects
+listing:
+  - id: phd-projects
+    contents: "**/*/index.qmd"
+    type: default
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: true
+    filter-ui: true
+page-layout: full
+title-block-banner: false
+comments: false
+#include-in-header: meta.html  
+toc: true
+---
+
+These are the research projects I am currently working on during my PhD at the University of Guelph, in the laboratory of Dr. M. Alex Smith.
+
+::: {#phd-projects}
+:::

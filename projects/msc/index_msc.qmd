@@ -1,0 +1,22 @@
+---
+title: MSc Projects
+listing:
+  - id: msc-projects
+    contents: "**/*/index.qmd"
+    type: default
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: true
+    filter-ui: true
+page-layout: full
+title-block-banner: false
+comments: false
+#include-in-header: meta.html  
+toc: true
+---
+
+These are the research projects I did during my MSc at the Dalhousie Agricultural Campus in the laboratory of Dr. Chris Cutler. Two of those papers came from my thesis, and one of them from a course I took with Dr. Vilis Nams.
+
+::: {#msc-projects}
+:::

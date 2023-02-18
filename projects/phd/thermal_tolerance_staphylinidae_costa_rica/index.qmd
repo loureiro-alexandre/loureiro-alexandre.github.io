@@ -1,0 +1,7 @@
+---
+title: Thermal tolerance of the Staphylinidae community along an elevation gradient at Área de Conservación Guanacaste, Costa Rica
+---
+
+![Staphylinidae from volcano Cacao at the Área de Conservación Guanacaste, Costa Rica. Images taken from BOLD and ](staphylinidae_acg.png)
+
+The Staphylinidae community on volcan Cacao at Área de Conservación Guanacaste (ACG), Costa Rica, has been found to be extremely diverse and mostly undescribed (over 300 species, 80% without genus-level classification and 99% without species names). They have also been found to increase in number of species as you go up in elevation, a trend that goes against the most reported patterns of diversity and elevation. There may be many reasons as to why this is the case, but it is likely the case that this explosion in diversity at higher elevations might be due to the reduced levels of variability in temperature that exist along this elevational gradient. If this is the case, we should expect to see species with thermal tolerances (heat and cold) that mirror that degree of variability, and that is exactly what I am testing in this project!

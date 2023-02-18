@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+resources: smith_lab_common_stats.html
 website:
   title: |
     Alexandre Loureiro
@@ -13,7 +13,7 @@ website:
       - href: about.qmd
         text: |
           About
-      - href: research.qmd
+      - href: projects.qmd
         text: |
           Projects
       - href: short_cv.qmd

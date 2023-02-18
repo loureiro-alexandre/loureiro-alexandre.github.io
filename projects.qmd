@@ -1,0 +1,87 @@
+---
+title: Projects
+listing:
+  - id: bsc-projects
+    contents: projects/bsc/*/*.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  - id: msc-projects
+    contents: projects/msc/*/*.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  - id: phd-projects
+    contents: projects/phd/*/*.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  - id: educational-resources
+    contents: projects/educational_resources/*/*.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  - id: partnerships
+    contents: projects/partnerships/*/*.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+page-layout: full
+title-block-banner: false
+comments: false
+---
+
+## PhD Projects
+
+::: {#phd-projects}
+:::
+
+<a href="../projects/phd/index_phd.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
+
+## MSc Projects
+
+::: {#msc-projects}
+:::
+
+<a href="../projects/msc/index_msc.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
+
+## BSc Projects
+
+::: {#bsc-projects}
+:::
+
+<a href="../projects/bsc/index_bsc.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
+
+## Educational Resources
+
+::: {#educational-resources}
+:::
+
+<a href="../projects/educational_resources/index_educational_resources.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
+
+## Partnerships
+
+::: {#partnerships}
+:::
+
+<a href="../projects/partnerships/index_partnerships.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>

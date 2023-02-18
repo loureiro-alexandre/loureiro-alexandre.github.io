@@ -1,0 +1,45 @@
+[
+  {
+    "listing": "/projects/bsc/index_bsc.html",
+    "items": [
+      "/projects/bsc/blueberry_spanworm_parasitoids/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/bsc/blueberry_spanworm_parasitoids/index.html",
+      "/projects/msc/arthropod_movement_method/index.html",
+      "/projects/msc/carabid_diversity_dispersal_blueberry_fields/index.html",
+      "/projects/msc/carabid_weed_seed_feeding_assays/index.html",
+      "/projects/phd/beetle_diversity_evelation_meta_analysis/index.html",
+      "/projects/phd/cuticular_lipids_staphylinidae_costa_rica/index.html",
+      "/projects/phd/thermal_tolerance_ants_dairy_bush/index.html",
+      "/projects/phd/thermal_tolerance_staphylinidae_costa_rica/index.html",
+      "/projects/educational_resources/smith_lab_stats_guide/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/msc/index_msc.html",
+    "items": [
+      "/projects/msc/arthropod_movement_method/index.html",
+      "/projects/msc/carabid_diversity_dispersal_blueberry_fields/index.html",
+      "/projects/msc/carabid_weed_seed_feeding_assays/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/phd/index_phd.html",
+    "items": [
+      "/projects/phd/beetle_diversity_evelation_meta_analysis/index.html",
+      "/projects/phd/cuticular_lipids_staphylinidae_costa_rica/index.html",
+      "/projects/phd/thermal_tolerance_ants_dairy_bush/index.html",
+      "/projects/phd/thermal_tolerance_staphylinidae_costa_rica/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/educational_resources/index_educational_resources.html",
+    "items": [
+      "/projects/educational_resources/smith_lab_stats_guide/index.html"
+    ]
+  }
+]
