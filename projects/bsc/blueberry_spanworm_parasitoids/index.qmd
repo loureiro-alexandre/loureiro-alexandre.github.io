@@ -1,5 +1,5 @@
 ---
-title: Blueberry spanworm parasitoid populations in Nova Scotia blueberry fields
+title: Blueberry spanworm parasitoid populations in Nova Scotia lowbush blueberry fields
 ---
 
 ::: {layout-ncol=2}
