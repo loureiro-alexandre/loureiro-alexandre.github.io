@@ -2,7 +2,10 @@
 title: "About me"
 ---
 
-<img width="300" height="400" src="images/walking.JPG">
+<figure>
+  <img width="300" height="450" src="images/la_cima_arrival.JPEG">
+  <figcaption>Me having just arrived to collect beetles at La Cima, at the top of Volcano Cacao in Costa Rica.</figcaption>
+</figure>
 
 I was born and raised in Recife, Brazil. I could therefore never escape (and in fact I did not want to!) the full majesty of life in the tropics. It is everywhere you look, and everywhere you go. I was particularly obsessed with the leaf-cutter ants that created mighty civilizations in my front yard -- to my mother's absolute dismay, since it meant her much cared-for garden's days were numbered. After a high school exchange trip to Nova Scotia, Canada, and a subsequent scholarship to Dalhousie University, I moved to Canada in 2012 to pursue a BSc in Agriculture with a major in Environmental Sciences.
 
