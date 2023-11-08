@@ -12,7 +12,7 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/loureiro-alexandre
-    - text: Twitter
+    - text: Twitter/X
       icon: twitter
       href: https://twitter.com/loureiro_al
     - text: LinkedIn
