@@ -6,7 +6,7 @@ My detailed CV is available upon <a href="mailto:a.loureiro@uoguelph.ca" target=
 
 ## Education
 
-- **PhD (Integrative Biology)** | University of Guelph, Guelph, Ontario, Canada | *2019-Present*
+- **PhD (Integrative Biology)** | University of Guelph, Guelph, Ontario, Canada | *2019-2025*
   - Focus on insect ecology
 - **MSc (Agriculture)** | Dalhousie University, Truro, Nova Scotia, Canada | *2016-2018*
   - Focus on insect ecology
@@ -18,10 +18,13 @@ My detailed CV is available upon <a href="mailto:a.loureiro@uoguelph.ca" target=
 
 ### Research
 
+- **Living Lab Coordinator** | Nova Scotia Federation of Agriculture, East Mountain, Nova Scotia, Canada | *2024-Present*
 - **Summer Research Assistant** | Entomology Laboratory, Dalhousie University, Truro, Nova Scotia, Canada | *2013-2016*
 
 ### Teaching
 
+- **Lecturer** | Dalhousie University, Truro, Nova Scotia, Canada | *2025*
+  - Ecology (BIOA3001)
 - **Teaching Assistant** | University of Guelph, Guelph, Ontario, Canada | *2023*
   - Ecological Methods (BIOL*4110)
 - **Teaching Assistant** | University of Guelph, Guelph, Ontario, Canada | *2022*
@@ -48,18 +51,20 @@ My detailed CV is available upon <a href="mailto:a.loureiro@uoguelph.ca" target=
 ## Publications
 
 ### Peer-Reviewed Articles
+**5.** **Loureiro, A. M. M. C.**, & Smith, M. A. (2025). <a href="https://doi.org/10.1111/een.13447" target="_blank">No evidence of a common pattern of taxon or phylogenetic diversity across elevation for beetle (Coleoptera) families</a>. *Ecological Entomology*, 50(4), 595-608.
 
-**4.** **Loureiro, A. M.**, & Nams, V. O. (2020). <a href="https://doi.org/10.4039/tce.2020.48" target="_blank">Sand and shine: an inexpensive method to measure terrestrial arthropod movement in the laboratory</a>. *The Canadian Entomologist*, 152(6), 823-829.
+**4.** **Loureiro, A. M. M. C.**, & Nams, V. O. (2020). <a href="https://doi.org/10.4039/tce.2020.48" target="_blank">Sand and shine: an inexpensive method to measure terrestrial arthropod movement in the laboratory</a>. *The Canadian Entomologist*, 152(6), 823-829.
 
-**3.** **Loureiro, A. M.**, Nams, V. O., White, S. N., & Cutler, G. C. (2020). <a href="https://doi.org/10.1093/ee/nvaa047" target="_blank">Short-term dispersal and long-term spatial and temporal patterns of Carabidae (Coleoptera) in lowbush blueberry fields</a>. *Environmental Entomology*, 49(3), 572-579.
+**3.** **Loureiro, A. M. M. C.**, Nams, V. O., White, S. N., & Cutler, G. C. (2020). <a href="https://doi.org/10.1093/ee/nvaa047" target="_blank">Short-term dispersal and long-term spatial and temporal patterns of Carabidae (Coleoptera) in lowbush blueberry fields</a>. *Environmental Entomology*, 49(3), 572-579.
 
-**2.** **Loureiro, A. M.**, Cutler, G. C., Nams, V. O., & White, S. N. (2019). <a href="https://doi.org/10.1093/jisesa/iez027" target="_blank">*Poecilus lucublandus* (Coleoptera: Carabidae) and *Pterostichus mutus* do not feed on hair fescue, red sorrel, and poverty oatgrass seeds</a>. *Journal of Insect Science*, 19(2), 21.
+**2.** **Loureiro, A. M. M. C.**, Cutler, G. C., Nams, V. O., & White, S. N. (2019). <a href="https://doi.org/10.1093/jisesa/iez027" target="_blank">*Poecilus lucublandus* (Coleoptera: Carabidae) and *Pterostichus mutus* do not feed on hair fescue, red sorrel, and poverty oatgrass seeds</a>. *Journal of Insect Science*, 19(2), 21.
 
 **1.** **Loureiro, A. M. M. C.**, & Cutler, G. C. (2016). <a href="https://acadianes.org/journal/papers/cutler_16-4.pdf" target="_blank">Parasitism of blueberry spanworm (Lepidoptera: Geometridae) by Ichneumonidae and Tachinidae in Nova Scotia blueberry fields</a>. *Journal of the Acadadian Entomological Society*, 12, 31-34.
 
 ### Theses
 
-Loureiro, A. M. M. C. (2018). <a href="http://hdl.handle.net/10222/74193" target="_blank">Feeding behaviour, dispersal, and community dynamics of Carabidae found in Nova Scotia lowbush blueberry fields</a>. Masters Thesis, *Dalhousie University*.
+Loureiro, A. M. M. C. (2025). <a href="https://hdl.handle.net/10214/29154" target="_blank">Thermal Ecology of Hyperdiverse Taxa in Environments Characterized by Abiotic Variability</a>. Doctoral Thesis, *University of Guelph*.
+Loureiro, A. M. M. C. (2018). <a href="http://hdl.handle.net/10222/74193" target="_blank">Feeding Behaviour, Dispersal, and Community Dynamics of Carabidae Found in Nova Scotia Lowbush Blueberry Fields</a>. Masters Thesis, *Dalhousie University*.
 
 ### Book Chapters
 
@@ -86,8 +91,9 @@ Loureiro, Alexandre M.M.C., Sangha, Jatinder, and Cutler, G. Christopher. 2015. 
 ## Academic Service
 
 ### Peer-Review for Academic Journals
-- *Journal of Pest Science*
 - *Ecological Entomology* (Royal Entomological Society, United Kingdom)
+- *Insect Science* (Entomological Society of China, China)
+- *Journal of Pest Science*
 - *Journal of the Acadian Entomological Society* (Acadian Entomological Society, Canada)
 
 ## Awards and Distinctions
@@ -126,31 +132,18 @@ Loureiro, Alexandre M.M.C., Sangha, Jatinder, and Cutler, G. Christopher. 2015. 
   - Dalhousie University, Truro, Nova Scotia, Canada
   - $40,000
 
-## Mentorship, Leadership, and Service
+## Mentorship, Leadership, and Service Highlights
 
 - **Mentor** | *2019*
   - Integrative Biology Undergraduate Mentorship Program, Guelph, Ontario, Canada
-- **Assistant Coach** | *2018*
-  - Dalhousie Rams Men’s Soccer, Truro, Nova Scotia, Canada
 - **Organizing Committee Member** | *2018*
   - Dalhousie BioBlitz, Truro, Nova Scotia, Canada
-- **Captain** | *2016-2017*
-  - Dalhousie Rams Men’s Soccer, Truro, Nova Scotia, Canada
 - **Executive Leader** | *2016-2017*
   - Global Student Community, Truro, Nova Scotia, Canada
 - **President** | *2016*
   - Dalhousie Agricultural International Students Association, Truro, Nova Scotia, Canada
 - **Peer Education Coordinator** | *2015*
   - Pro‑Social/Caring Campus Program, Truro, Nova Scotia, Canada
-- **Orientation Leader** | *2014*
-  - Dalhousie University Orientation Week, Truro, Nova Scotia, Canada
-- **Volunteer Coach** | *2013-2016*
-  - Under‑8 Soccer, CC Riders Soccer Club, Truro, Nova Scotia, Canada
-- **Volunteer Research Assistant** | *2012*
-  - Entomology Laboratory, Dalhousie University, Truro, Nova Scotia, Canada
-- **Volunteer Recruiter** | *2011*
-  - Nova Scotia Agricultural College booth
-  - Education fair, Recife, Pernambuco, Brazil
 
 ## Public Outreach
 

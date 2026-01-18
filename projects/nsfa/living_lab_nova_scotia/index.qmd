@@ -1,0 +1,10 @@
+---
+title: Living Lab - Nova Scotia
+---
+
+::: {layout-ncol=2}
+![Nova Scotia Federation of Agriculture (NSFA)](ll_ns.png)
+
+:::
+
+I am currently employed as the Living Lab Coordinator for the Nova Scotia Federation of Agriculture, where I coordinate the co-development and implementation of best management practices (BMPs) in agricultural fields with producers, researchers, industry, and government in Nova Scotia. We are testing four BMPs in the project: Cover Crops, Perennial Floor Management, Riparian Zones and Shelterbelts, and Land Swaps. These practices are designed to help increase soil carbon, nitrogen, health, and nutrients and reduce greenhouse gas emissions. We also monitor several biodiversity parameters and insect pest presence. Please check out the <a href="https://nsfa-fane.ca/livinglabs/" target="_blank">Living Lab - Nova Scotia website</a> to learn more about the project!

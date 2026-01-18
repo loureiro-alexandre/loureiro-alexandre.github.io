@@ -51,21 +51,28 @@ title-block-banner: false
 comments: false
 ---
 
-## PhD Projects
+## Nova Scotia Federation of Agriculture (NSFA)
+
+::: {#nsfa-projects}
+:::
+
+<a href="../projects/nsfa/index_nsfa.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
+
+## PhD
 
 ::: {#phd-projects}
 :::
 
 <a href="../projects/phd/index_phd.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
 
-## MSc Projects
+## MSc
 
 ::: {#msc-projects}
 :::
 
 <a href="../projects/msc/index_msc.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
 
-## BSc Projects
+## BSc
 
 ::: {#bsc-projects}
 :::
@@ -81,7 +88,7 @@ comments: false
 
 ## Partnerships
 
-I maintain active partnerships with researchers at the Dalhousie Agricultural Campus (Nova Scotia, Canada), Acadia University (Nova Scotia, Canada), and at the State University of Minas Gerais (Universidade do Estado de Minas Gerais, UEMG), Brazil, where I am involved in agricultural entomology/ecology projects, exploratory ecology, and some theoretical biology work.
+I maintain active partnerships with researchers at the Dalhousie Agricultural Campus (Nova Scotia, Canada), Acadia University (Nova Scotia, Canada), and at the State University of Minas Gerais (Universidade do Estado de Minas Gerais, UEMG), Brazil, where I am involved in agricultural entomology/ecology projects, exploratory ecology, and biostatistics work.
 
 ::: {#partnerships}
 :::
