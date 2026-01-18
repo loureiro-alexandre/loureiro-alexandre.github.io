@@ -38,7 +38,16 @@ listing:
     filter-ui: false
     page-size: 3
   - id: partnerships
-    contents: projects/partnerships/*/*.qmd
+    contents: projects/partnerships/index_partnerships.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  - id: nsfa-projects
+    contents: projects/nsfa/*/*.qmd
     type: grid
     fields: [image, date, title]
     sort: "date desc"

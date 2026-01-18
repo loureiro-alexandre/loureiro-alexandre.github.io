@@ -3,7 +3,7 @@ title: Living Lab - Nova Scotia
 ---
 
 ::: {layout-ncol=2}
-![Nova Scotia Federation of Agriculture (NSFA)](ll_ns.png)
+![Nova Scotia Federation of Agriculture (NSFA)](ll_ns.jpg)
 
 :::
 
