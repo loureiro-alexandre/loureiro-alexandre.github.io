@@ -19,6 +19,7 @@ My detailed CV is available upon <a href="mailto:ammcloureiro@gmail.com" target=
 ### Research
 
 - **Living Lab Coordinator** | Nova Scotia Federation of Agriculture, East Mountain, Nova Scotia, Canada | *2024-Present*
+- **Statistical Consultant** | Self-Employed | *2018-Present*
 - **Summer Research Assistant** | Entomology Laboratory, Dalhousie University, Truro, Nova Scotia, Canada | *2013-2016*
 
 ### Teaching
@@ -64,6 +65,7 @@ My detailed CV is available upon <a href="mailto:ammcloureiro@gmail.com" target=
 ### Theses
 
 Loureiro, A. M. M. C. (2025). <a href="https://hdl.handle.net/10214/29154" target="_blank">Thermal Ecology of Hyperdiverse Taxa in Environments Characterized by Abiotic Variability</a>. Doctoral Thesis, *University of Guelph*.
+
 Loureiro, A. M. M. C. (2018). <a href="http://hdl.handle.net/10222/74193" target="_blank">Feeding Behaviour, Dispersal, and Community Dynamics of Carabidae Found in Nova Scotia Lowbush Blueberry Fields</a>. Masters Thesis, *Dalhousie University*.
 
 ### Book Chapters
@@ -71,6 +73,12 @@ Loureiro, A. M. M. C. (2018). <a href="http://hdl.handle.net/10222/74193" target
 M. Alex Smith, Connor Warne, Kate Pare, Sarah Dolson, Elyssa Loewen, Kelsey Jones, Megan McPhee, Lauren Stitt, Lauren Janke, Rebecca M. Smith, Heather Coatsworth, **Alexandre M. M. C. Loureiro**, Angel Solis, Carlos F. Viquez, Josephine Rodriguez, Jose Fernandez-Triana, Michael J. Sharkey, James Whitfield, Alejandro Masís, María Marta Chavarría, Roger Blanco, Felipe Chavarria, Eugenie PhillipsRodríguez, Roberto Fernández, Dunia Garcia, Guillermo Pereira, Harry Ramirez, Manuel Pereira, Winnie Hallwachs, and Daniel H. Janzen. (2023). <a href="https://doi.org/10.1007/978-3-031-22848-3_10" target="_blank">Communities of small terrestrial arthropods change rapidly along a Costa Rican elevation gradient</a>. In *Neotropical Gradients and Their Analysis*, Springer.
 
 ## Conference Presentations
+
+Loureiro, Alexandre M.M.C. 2026. “Land Swap Highlights – 2025: What About Wireworms and Click Beetles?”. Talk. *Living Lab – Nova Scotia Annual Meeting*. Greenwich, Nova Scotia, Canada.
+
+Loureiro, Alexandre M.M.C. 2025. “Land Swap Highlights – 2024”. Talk. *11th Annual Atlantic Forage Field Day*. Nappan, Nova Scotia, Canada.
+
+Loureiro, Alexandre M.M.C. 2025. “Land Swap Highlights – 2024”. Talk. *Living Lab – Nova Scotia Annual Meeting*. Online (Zoom).
 
 Loureiro, Alexandre M.M.C., and Smith, M. Alex. 2021. “Beetle Diversity and Elevation: What Do We Really Know?” Talk. *Entomological Society of Canada Annual Meeting*. Online (Zoom).
 
@@ -87,6 +95,14 @@ Loureiro, Alexandre M.M.C., Cutler, G. Christopher, Nams, Vilis O., and White, S
 Loureiro, Alexandre M.M.C., and Cutler, G. Christopher. 2016. “Parasitism of Blueberry Spanworm (Lepidoptera: Geometridae) by Ichneumonidae and Tachinidae in Nova Scotia Blueberry Fields.” Poster. *Acadian Entomological Society Annual Meeting*. Moncton, New Brunswick, Canada.
 
 Loureiro, Alexandre M.M.C., Sangha, Jatinder, and Cutler, G. Christopher. 2015. “Preference of Chafer Beetles (*Serica* Sp.) for Various Host Plants Found in Lowbush Blueberry Fields.” Talk. *Acadian Entomological Society Annual Meeting*. Moncton, New Brunswick, Canada.
+
+## Invited Talks and Lectures
+
+Effects of Heat Stress and Thermal Extremes on Insect Pests (Co-Presented with Dr. Chris Cutler). 2026. *Growing Connections 2026*, Truro Agromart, Truro, Nova Scotia.
+
+Thermal Ecology of Hyperdiverse Taxa in Environments Characterized by Abiotic Variability. 2025. *General Entomology (BIOA3000)*, Dalhousie University, Truro, Nova Scotia.
+
+Lecture on Cephalopods. 2019. *Invertebrate Morphology and Evolution (ZOO2700)*, University of Guelph, Guelph, Canada.
 
 ## Academic Service
 
