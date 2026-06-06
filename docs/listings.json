@@ -12,10 +12,10 @@
       "/projects/msc/arthropod_movement_method/index.html",
       "/projects/msc/carabid_diversity_dispersal_blueberry_fields/index.html",
       "/projects/msc/carabid_weed_seed_feeding_assays/index.html",
-      "/projects/phd/beetle_diversity_evelation_meta_analysis/index.html",
-      "/projects/phd/cuticular_lipids_staphylinidae_costa_rica/index.html",
-      "/projects/phd/thermal_tolerance_ants_dairy_bush/index.html",
-      "/projects/phd/thermal_tolerance_staphylinidae_costa_rica/index.html",
+      "/projects/phd/1_beetle_diversity_evelation_meta_analysis/index.html",
+      "/projects/phd/2_thermal_tolerance_staphylinidae_costa_rica/index.html",
+      "/projects/phd/3_cuticular_lipids_staphylinidae_costa_rica/index.html",
+      "/projects/phd/4_thermal_tolerance_ants_dairy_bush/index.html",
       "/projects/educational_resources/smith_lab_stats_guide/index.html",
       "/projects/partnerships/index_partnerships.html",
       "/projects/nsfa/living_lab_nova_scotia/index.html"
@@ -32,10 +32,10 @@
   {
     "listing": "/projects/phd/index_phd.html",
     "items": [
-      "/projects/phd/beetle_diversity_evelation_meta_analysis/index.html",
-      "/projects/phd/cuticular_lipids_staphylinidae_costa_rica/index.html",
-      "/projects/phd/thermal_tolerance_ants_dairy_bush/index.html",
-      "/projects/phd/thermal_tolerance_staphylinidae_costa_rica/index.html"
+      "/projects/phd/1_beetle_diversity_evelation_meta_analysis/index.html",
+      "/projects/phd/2_thermal_tolerance_staphylinidae_costa_rica/index.html",
+      "/projects/phd/3_cuticular_lipids_staphylinidae_costa_rica/index.html",
+      "/projects/phd/4_thermal_tolerance_ants_dairy_bush/index.html"
     ]
   },
   {

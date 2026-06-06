@@ -6,3 +6,5 @@
 /.quarto/
 
 *loureiro_cv.pdf
+
+**/*.quarto_ipynb
