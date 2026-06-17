@@ -67,21 +67,21 @@ comments: false
 
 <a href="../projects/nsfa/index_nsfa.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
 
-## PhD
+## PhD -- University of Guelph
 
 ::: {#phd-projects}
 :::
 
 <a href="../projects/phd/index_phd.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
 
-## MSc
+## MSc -- Dalhousie University
 
 ::: {#msc-projects}
 :::
 
 <a href="../projects/msc/index_msc.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
 
-## BSc
+## BSc -- Dalhousie University
 
 ::: {#bsc-projects}
 :::
@@ -95,7 +95,7 @@ comments: false
 
 <a href="../projects/educational_resources/index_educational_resources.html"> <button type="button" class="btn btn-primary float-end btn-sm">Learn more</button></a>
 
-## Partnerships
+## Academic Partnerships
 
 I maintain active partnerships with researchers at the Dalhousie Agricultural Campus (Nova Scotia, Canada), Acadia University (Nova Scotia, Canada), and at the State University of Minas Gerais (Universidade do Estado de Minas Gerais, UEMG), Brazil, where I am involved in agricultural entomology/ecology projects, exploratory ecology, and biostatistics work.
 

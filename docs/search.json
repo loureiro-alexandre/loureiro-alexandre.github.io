@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alexandre Loureiro, PhD, PAg",
     "section": "",
-    "text": "Welcome to my website!\nI’m a scientist, quantitative researcher, and data professional who’s obsessed with all three aspects of my work. As an ecologist, I like to study ecology at all scales and settings, from applied agriculture to “basic science” questions, and from individual physiology and behaviour to global community distribution patterns. Generally speaking, I’m interested in learning about how species distribute themselves in space and what drives those distributions, which allows me to explore that theme within many different settings. As a quantitative researcher and data professional, I am very interested in statistics and reproducible research practices, so wherever I can, I use the programming language R, the version control software Git, GitHub, as well as the scientific writing software Quarto, which integrates both markdown text (plain text) and R code into a single document (for instance, I made this website in Quarto!). I am also a statistical consultant, offering services on experimental design, database management, code writing and execution for simple or complex statistical analyses and modeling, interpretation of results, and communication of these (sometimes complicated) results to diverse audiences.\nI am currently employed as the Living Lab Coordinator for the Nova Scotia Federation of Agriculture, where I coordinate the co-development and implementation of best management practices in agricultural fields with producers, researchers, industry, and government in Nova Scotia. Please check out the Living Lab - Nova Scotia website to learn more about the project.\nIf you want to contact me, feel free to reach out through the links on this page and on the navigation bar!\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter/X\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Scholar\n  \n  \n    \n     ORCID"
+    "text": "Welcome to my website!\nI’m a scientist, quantitative researcher, and data professional who’s obsessed with all three aspects of my work. As a scientist, I like to study ecology at all scales and settings, from applied agriculture to “basic science” questions, and from individual physiology and behaviour to global community distribution patterns. Generally speaking, I’m interested in learning about how species distribute themselves in space and what drives those distributions, which allows me to explore that theme within many different settings. As a quantitative researcher and data professional, I am very interested in statistics and reproducible research practices, so wherever I can, I use the programming language R, the version control software Git, GitHub, as well as the scientific writing software Quarto, which integrates both markdown text (plain text) and R code into a single document (for instance, I made this website in Quarto!). I am also a statistical consultant, offering services on experimental design, database management, code writing and execution for simple or complex statistical analyses and modeling, interpretation of results, and communication of these (sometimes complicated) results to diverse audiences.\nI am currently employed as the Living Lab Coordinator for the Nova Scotia Federation of Agriculture, where I coordinate the co-development and implementation of best management practices in agricultural fields with producers, researchers, industry, and government in Nova Scotia. Please check out the Living Lab - Nova Scotia website to learn more about the project.\nIf you want to contact me, feel free to reach out through the links on this page and on the navigation bar!\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter/X\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Scholar\n  \n  \n    \n     ORCID"
   },
   {
     "objectID": "about.html",
@@ -376,5 +376,33 @@
     "title": "Changes in cuticular lipids of Staphylinidae community across elevation at the Área de Conservación Guanacaste, Costa Rica",
     "section": "",
     "text": "Me being trained on how to run a mass spectrometer at Acadia University\n\n\nThermal tolerance, both heat and cold, are often associated with an organism’s water balance, and therefore, their ability to lose or retain water. The primary barrier to water loss in insects is a layer of lipids on their cuticles that contain long-chain saturated hydrocarbons that have water-proofing abilities. In this project, I partnered up with Dr. Nicoletta Faraone at Acadia University to measure the relative abundance of the cuticular lipid layer of the Staphylinidae community from volcano Cacao, at the Área de Conservación Guanacaste, Costa Rica. We found that the amount of long-chain saturated hydrocarbons (relative to other chemicals on the cuticle) did not change with elevation across the entire community, whether that was at the community level, the largest beetles only, or the most widely distributed species along the elevational gradient. These beetles likely rely on behavioural adaptations to regulate their wate balance, such as searching for sites with water. This is troubling, given that precipitation levels on this volcano are decreasing and becoming less predictable. You can read more about our findings here."
+  },
+  {
+    "objectID": "projects.html#phd-university-of-guelph",
+    "href": "projects.html#phd-university-of-guelph",
+    "title": "Projects",
+    "section": "PhD – University of Guelph",
+    "text": "PhD – University of Guelph\n\n\n\n\n\n\n\n\nMontane beetle diversity and elevation – is there a common distribution pattern across the globe?\n\n\n\n\n\n\n\n\n\n\nThermal tolerance of the Staphylinidae community along an elevation gradient at Área de Conservación Guanacaste, Costa Rica\n\n\n\n\n\n\n\n\n\n\nChanges in cuticular lipids of Staphylinidae community across elevation at the Área de Conservación Guanacaste, Costa Rica\n\n\n\n\n\n\n\n\n\n\nAnt thermal tolerance along a field-forest gradient in Guelph, Ontario\n\n\n\n\n\nNo matching items\n\n  \n\n\n Learn more"
+  },
+  {
+    "objectID": "projects.html#msc-dalhousie-university",
+    "href": "projects.html#msc-dalhousie-university",
+    "title": "Projects",
+    "section": "MSc – Dalhousie University",
+    "text": "MSc – Dalhousie University\n\n\n\n\n\n\n\n\nA method to measure terrestrial arthropod movement in the laboratory, in the dark\n\n\n\n\n\n\n\n\n\n\nCarabid diversity across space and time, and the dispersal ability of Harpalus rufipes in Nova Scotia lowbush blueberry fields\n\n\n\n\n\n\n\n\n\n\nFeeding behaviours of two abundant early spring carabid species found in Nova Scotia lowbush blueberry fields\n\n\n\n\n\nNo matching items\n\n Learn more"
+  },
+  {
+    "objectID": "projects.html#bsc-dalhousie-university",
+    "href": "projects.html#bsc-dalhousie-university",
+    "title": "Projects",
+    "section": "BSc – Dalhousie University",
+    "text": "BSc – Dalhousie University\n\n\n\n\n\n\n\n\nBlueberry spanworm parasitoid populations in Nova Scotia lowbush blueberry fields\n\n\n\n\n\nNo matching items\n\n Learn more"
+  },
+  {
+    "objectID": "projects.html#academic-partnerships",
+    "href": "projects.html#academic-partnerships",
+    "title": "Projects",
+    "section": "Academic Partnerships",
+    "text": "Academic Partnerships\nI maintain active partnerships with researchers at the Dalhousie Agricultural Campus (Nova Scotia, Canada), Acadia University (Nova Scotia, Canada), and at the State University of Minas Gerais (Universidade do Estado de Minas Gerais, UEMG), Brazil, where I am involved in agricultural entomology/ecology projects, exploratory ecology, and biostatistics work.\n\n\n\n\n\n\n\n\nPartnerships\n\n\n\n\n\nNo matching items\n\n Learn more"
   }
 ]
